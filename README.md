@@ -8,18 +8,18 @@ Age classification has numerous applications, from targeted advertising to biome
 
 # 🛠️ Key Features
 
-• Model Architecture: Utilizes a custom deep learning model optimized for multi-class classification.
-• Image Preprocessing: Includes resizing, normalization, and augmentation for enhanced generalization.
-• Training & Testing Pipeline: Seamless integration of training and testing with distinct directories for each class.
-• Evaluation Metrics: Comprehensive analysis using metrics like accuracy, precision, and confusion matrix.
-• Compatibility: Designed with flexibility for use with various image datasets and frameworks.
-• Interactive Interface(in developement): A webpage front for submitting images and getting classification output.
+• Model Architecture: Utilizes a custom deep learning model optimized for multi-class classification.  
+• Image Preprocessing: Includes resizing, normalization, and augmentation for enhanced generalization.  
+• Training & Testing Pipeline: Seamless integration of training and testing with distinct directories for each class.  
+• Evaluation Metrics: Comprehensive analysis using metrics like accuracy, precision, and confusion matrix.  
+• Compatibility: Designed with flexibility for use with various image datasets and frameworks.  
+• Interactive Interface(in developement): A webpage front for submitting images and getting classification output.  
 
 # 🚀 Tech Stack
 
-• Programming Language: Python 🐍
-• Frameworks & Libraries: TensorFlow/Keras, NumPy, OpenCV, and Matplotlib (still under further improvements)
-• Environment: Jupyter Notebook / Python scripts
+• Programming Language: Python 🐍  
+• Frameworks & Libraries: TensorFlow/Keras, NumPy, OpenCV, and Matplotlib (still under further improvements)  
+• Environment: Jupyter Notebook / Python scripts  
 
 # 🎉 Results & Accuracy
 
